@@ -1,0 +1,5 @@
+git pull	更新库
+git status	查看本地更改状态
+git add	.	添加修改到缓存区
+git commit -m""	为修改添加注释
+git push	提交到远程
